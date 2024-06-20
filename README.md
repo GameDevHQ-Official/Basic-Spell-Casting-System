@@ -43,8 +43,8 @@ The program should display the player's name, health, mana, and the result of th
 
 ### 4. Handle Spell Effects
 
-- Use conditionals (`if`, `else if`, `else`) to apply the effects of the chosen spell on the player's health and mana.
-- Use type conversion if necessary to manage the spell effects.
+- Use conditionals (`if`, `else if`, `else`, `switch`) to apply the effects of the chosen spell on the player's health and mana.
+- Use type conversion to map the user input to the spell type enum.
 
 ### 5. Display Results
 
